@@ -1,0 +1,105 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "System description ",
+            2
+        ],
+        [
+            2,
+            "Geometrical Model",
+            2
+        ],
+        [
+            2,
+            "Ground-to-satellite Channel Model",
+            2
+        ],
+        [
+            2,
+            "ISL Channel Model",
+            3
+        ],
+        [
+            2,
+            "Signal Received on the G2S Link",
+            3
+        ],
+        [
+            2,
+            "Relaying Techniques",
+            4
+        ],
+        [
+            2,
+            "Processing at Satellite D",
+            4
+        ],
+        [
+            1,
+            "BLER analysis",
+            4
+        ],
+        [
+            2,
+            "Soft Handover with Noiseless ISL ",
+            5
+        ],
+        [
+            1,
+            "Simulation results",
+            5
+        ],
+        [
+            2,
+            "Comparison between AF and DF ",
+            5
+        ],
+        [
+            2,
+            "Increasing the Size of the Constellation ",
+            6
+        ],
+        [
+            2,
+            "The Impact of Misalignment",
+            6
+        ],
+        [
+            1,
+            "Conclusions",
+            7
+        ],
+        [
+            1,
+            "References",
+            7
+        ]
+    ],
+    "pages": 7,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 4,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 15,
+            "unsuccessful_ocr": 1,
+            "equations": 16
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

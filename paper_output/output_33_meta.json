@@ -1,0 +1,170 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Problem Formulation",
+            1
+        ],
+        [
+            1,
+            "Previous Results",
+            2
+        ],
+        [
+            2,
+            "Earliest Deadline First (EDF)",
+            2
+        ],
+        [
+            2,
+            "An intuitive Example",
+            2
+        ],
+        [
+            2,
+            "Drop Positive Gain Policy (DPGP)",
+            2
+        ],
+        [
+            1,
+            "Queue as an MDP",
+            2
+        ],
+        [
+            2,
+            "General definition",
+            3
+        ],
+        [
+            2,
+            "MDP Design",
+            3
+        ],
+        [
+            3,
+            "S",
+            3
+        ],
+        [
+            3,
+            "A",
+            3
+        ],
+        [
+            3,
+            "P",
+            3
+        ],
+        [
+            3,
+            "r",
+            3
+        ],
+        [
+            2,
+            "On the equivalence of the MDP and original problem",
+            4
+        ],
+        [
+            1,
+            "MDP optimization",
+            4
+        ],
+        [
+            2,
+            "The case D=2",
+            4
+        ],
+        [
+            2,
+            "The case D=3",
+            6
+        ],
+        [
+            2,
+            "On properties of the boundaries",
+            6
+        ],
+        [
+            1,
+            "Heuristic Policy (AB-n)",
+            6
+        ],
+        [
+            1,
+            "Numerical results and experiments",
+            7
+        ],
+        [
+            2,
+            "The D=4 case",
+            7
+        ],
+        [
+            2,
+            "AB-n with different n values",
+            7
+        ],
+        [
+            2,
+            "AB-5 vs DPGP and EDF",
+            7
+        ],
+        [
+            1,
+            "Conclusion",
+            7
+        ],
+        [
+            1,
+            "References",
+            8
+        ],
+        [
+            2,
+            "DPGP",
+            9
+        ],
+        [
+            2,
+            "States",
+            9
+        ],
+        [
+            2,
+            "Reward Computation",
+            10
+        ],
+        [
+            2,
+            "Choice of optimal policy",
+            11
+        ]
+    ],
+    "pages": 11,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 11,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 57,
+            "unsuccessful_ocr": 2,
+            "equations": 59
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

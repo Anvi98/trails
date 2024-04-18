@@ -1,0 +1,100 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Scenario",
+            2
+        ],
+        [
+            2,
+            "Network Design",
+            2
+        ],
+        [
+            2,
+            "Equipment",
+            2
+        ],
+        [
+            2,
+            "Energy Models",
+            3
+        ],
+        [
+            3,
+            "UAV Device",
+            3
+        ],
+        [
+            3,
+            "RIS Array",
+            3
+        ],
+        [
+            3,
+            "MIMO Transceiver",
+            3
+        ],
+        [
+            3,
+            "PV Panel",
+            4
+        ],
+        [
+            3,
+            "Battery System",
+            4
+        ],
+        [
+            3,
+            "Atmospheric Parameters",
+            4
+        ],
+        [
+            1,
+            "Simulation Setup",
+            5
+        ],
+        [
+            1,
+            "Results",
+            5
+        ],
+        [
+            1,
+            "Conclusions",
+            6
+        ],
+        [
+            1,
+            "References",
+            6
+        ]
+    ],
+    "pages": 7,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 2,
+        "table": 6,
+        "equations": {
+            "successful_ocr": 10,
+            "unsuccessful_ocr": 0,
+            "equations": 10
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

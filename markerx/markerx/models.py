@@ -1,7 +1,7 @@
-from marker.cleaners.equations import load_texify_model
-from marker.ordering import load_ordering_model
-from marker.postprocessors.editor import load_editing_model
-from marker.segmentation import load_layout_model
+from markerx.cleaners.equations import load_texify_model
+from markerx.ordering import load_ordering_model
+from markerx.postprocessors.editor import load_editing_model
+from markerx.segmentation import load_layout_model
 
 
 def load_all_models():

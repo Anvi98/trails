@@ -75,7 +75,7 @@ class Settings(BaseSettings):
     OCR_ENGINE: str = "ocrmypdf" # Which OCR engine to use, either "tesseract" or "ocrmypdf".  Ocrmypdf is higher quality, but slower.
 
     # Texify model
-    TEXIFY_MODEL_MAX: int = 384 # Max inference length for texify
+    TEXIFY_MODEL_MAX: int = 760 # Max inference length for texify
     TEXIFY_TOKEN_BUFFER: int = 256 # Number of tokens to buffer above max for texify
     TEXIFY_DPI: int = 96 # DPI to render images at
     TEXIFY_BATCH_SIZE: int = 2 if TORCH_DEVICE_MODEL == "cpu" else 6 # Batch size for texify, lower on cpu due to float32

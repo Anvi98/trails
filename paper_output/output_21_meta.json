@@ -1,0 +1,175 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Related work",
+            3
+        ],
+        [
+            2,
+            "Method: t-SNE",
+            3
+        ],
+        [
+            2,
+            "Method: LargeVis",
+            4
+        ],
+        [
+            2,
+            "Method: UMAP",
+            4
+        ],
+        [
+            2,
+            "Method: PaCMAP",
+            5
+        ],
+        [
+            2,
+            "Method: TRIMAP",
+            5
+        ],
+        [
+            2,
+            "Short summary for DR methods",
+            5
+        ],
+        [
+            1,
+            "CAMEL method and algorithm",
+            6
+        ],
+        [
+            2,
+            "Many body potential and force",
+            6
+        ],
+        [
+            2,
+            "Curvature in topology",
+            7
+        ],
+        [
+            2,
+            "Proposed force field model",
+            8
+        ],
+        [
+            1,
+            "Algorithm and Implementation",
+            10
+        ],
+        [
+            2,
+            "Unsupervised learning",
+            11
+        ],
+        [
+            2,
+            "Supervised learning",
+            11
+        ],
+        [
+            2,
+            "Metric learning",
+            12
+        ],
+        [
+            2,
+            "Semi-supervised learning",
+            12
+        ],
+        [
+            2,
+            "Inverse Learning",
+            13
+        ],
+        [
+            2,
+            "Metrics-based comparison and verification",
+            14
+        ],
+        [
+            1,
+            "Experiments and results",
+            16
+        ],
+        [
+            2,
+            "Unsupervised Learning",
+            16
+        ],
+        [
+            2,
+            "Supervised Learning",
+            17
+        ],
+        [
+            2,
+            "Metric Learning",
+            19
+        ],
+        [
+            2,
+            "Semi-supervised learning",
+            19
+        ],
+        [
+            2,
+            "Inverse Learning",
+            21
+        ],
+        [
+            1,
+            "Discussions",
+            23
+        ],
+        [
+            2,
+            "Effect of curvature force weight coefficient",
+            23
+        ],
+        [
+            2,
+            "Effect of number of neighbors",
+            25
+        ],
+        [
+            2,
+            "Effect of Negative Sampling",
+            25
+        ],
+        [
+            1,
+            "Conclusion",
+            25
+        ]
+    ],
+    "pages": 34,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 33,
+        "code": 0,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 26,
+            "unsuccessful_ocr": 0,
+            "equations": 26
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

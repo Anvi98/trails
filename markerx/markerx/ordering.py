@@ -4,13 +4,13 @@ from typing import List
 import torch
 import sys, os
 
-from marker.extract_text import convert_single_page
+from markerx.extract_text import convert_single_page
 from transformers import LayoutLMv3ForSequenceClassification, LayoutLMv3Processor
 from PIL import Image
 import io
 
-from marker.schema import Page
-from marker.settings import settings
+from markerx.schema import Page
+from markerx.settings import settings
 
 processor = LayoutLMv3Processor.from_pretrained(settings.ORDERER_MODEL_NAME)
 

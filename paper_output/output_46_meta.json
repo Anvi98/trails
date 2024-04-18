@@ -1,0 +1,110 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Related Work",
+            2
+        ],
+        [
+            1,
+            "Problem Definition",
+            2
+        ],
+        [
+            1,
+            "Proposed Method",
+            3
+        ],
+        [
+            2,
+            "D-TP",
+            3
+        ],
+        [
+            3,
+            "Calculation of Pickup Deadlines",
+            3
+        ],
+        [
+            3,
+            "Deadline-aware Task Assignment",
+            3
+        ],
+        [
+            3,
+            "Algorithm",
+            3
+        ],
+        [
+            2,
+            "D-TPTS",
+            3
+        ],
+        [
+            3,
+            "Task Swapping Among Agents",
+            3
+        ],
+        [
+            3,
+            "Task Switching",
+            4
+        ],
+        [
+            3,
+            "Algorithm",
+            4
+        ],
+        [
+            1,
+            "Numerical Experiments",
+            4
+        ],
+        [
+            2,
+            "Evaluation of Task Tardiness",
+            4
+        ],
+        [
+            2,
+            "Discussion",
+            5
+        ],
+        [
+            1,
+            "Conclusions",
+            6
+        ],
+        [
+            1,
+            "References",
+            6
+        ]
+    ],
+    "pages": 6,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 4,
+            "unsuccessful_ocr": 0,
+            "equations": 4
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

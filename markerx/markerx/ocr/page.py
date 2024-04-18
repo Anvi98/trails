@@ -5,9 +5,9 @@ import fitz as pymupdf
 import ocrmypdf
 from spellchecker import SpellChecker
 
-from marker.ocr.utils import detect_bad_ocr
-from marker.schema import Block
-from marker.settings import settings
+from markerx.ocr.utils import detect_bad_ocr
+from markerx.schema import Block
+from markerx.settings import settings
 
 ocrmypdf.configure_logging(verbosity=ocrmypdf.Verbosity.quiet)
 

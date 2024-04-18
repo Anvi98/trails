@@ -3,11 +3,11 @@ from typing import Tuple, List, Optional
 
 from spellchecker import SpellChecker
 
-from marker.bbox import correct_rotation
-from marker.ocr.page import ocr_entire_page
-from marker.ocr.utils import detect_bad_ocr, font_flags_decomposer
-from marker.settings import settings
-from marker.schema import Span, Line, Block, Page
+from markerx.bbox import correct_rotation
+from markerx.ocr.page import ocr_entire_page
+from markerx.ocr.utils import detect_bad_ocr, font_flags_decomposer
+from markerx.settings import settings
+from markerx.schema import Span, Line, Block, Page
 from concurrent.futures import ThreadPoolExecutor
 
 os.environ["TESSDATA_PREFIX"] = settings.TESSDATA_PREFIX

@@ -1,0 +1,165 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            2,
+            "Motivation",
+            1
+        ],
+        [
+            2,
+            "Contribution",
+            2
+        ],
+        [
+            2,
+            "Paper Organization and Notation",
+            2
+        ],
+        [
+            1,
+            "System model",
+            3
+        ],
+        [
+            2,
+            "RS Models",
+            3
+        ],
+        [
+            2,
+            "Note on the downlink scenario",
+            4
+        ],
+        [
+            1,
+            "RS Channel Orthogonalization",
+            4
+        ],
+        [
+            2,
+            "FRIS",
+            5
+        ],
+        [
+            2,
+            "BD-RIS",
+            5
+        ],
+        [
+            2,
+            "ARIS",
+            6
+        ],
+        [
+            1,
+            "Orthogonal channel selection",
+            6
+        ],
+        [
+            2,
+            "RS power minimization",
+            7
+        ],
+        [
+            2,
+            "Channel gain maximization",
+            7
+        ],
+        [
+            1,
+            "Channel estimation and RS configuration",
+            8
+        ],
+        [
+            2,
+            "Direct Channel Estimation",
+            8
+        ],
+        [
+            2,
+            "Cascaded Channel Coefficients Estimation",
+            9
+        ],
+        [
+            3,
+            "FRIS",
+            9
+        ],
+        [
+            3,
+            "BD-RIS",
+            9
+        ],
+        [
+            3,
+            "ARIS",
+            9
+        ],
+        [
+            2,
+            "RS Configuration",
+            9
+        ],
+        [
+            1,
+            "Numerical results and examples",
+            10
+        ],
+        [
+            2,
+            "Performance under IID Rayleigh fading",
+            10
+        ],
+        [
+            2,
+            "Pure LoS Example Scenario",
+            10
+        ],
+        [
+            2,
+            "Imperfect CSI Scenario under IID Rayleigh fading",
+            10
+        ],
+        [
+            1,
+            "Conclusions and Future Work",
+            11
+        ],
+        [
+            1,
+            "Appendix: Proof of Theorem 1",
+            12
+        ],
+        [
+            1,
+            "References",
+            12
+        ]
+    ],
+    "pages": 13,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 5,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 22,
+            "unsuccessful_ocr": 4,
+            "equations": 26
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

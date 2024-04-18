@@ -1,21 +1,21 @@
 import fitz as pymupdf
 
-from marker.cleaners.table import merge_table_blocks, create_new_tables
-from marker.debug.data import dump_bbox_debug_data
-from marker.extract_text import get_text_blocks
-from marker.cleaners.headers import filter_header_footer, filter_common_titles
-from marker.cleaners.equations import replace_equations
-from marker.ordering import order_blocks
-from marker.postprocessors.editor import edit_full_text
-from marker.segmentation import detect_document_block_types
-from marker.cleaners.code import identify_code_blocks, indent_blocks
-from marker.cleaners.bullets import replace_bullets
-from marker.markdown import merge_spans, merge_lines, get_full_text
-from marker.schema import Page, BlockType
+from markerx.cleaners.table import merge_table_blocks, create_new_tables
+from markerx.debug.data import dump_bbox_debug_data
+from markerx.extract_text import get_text_blocks
+from markerx.cleaners.headers import filter_header_footer, filter_common_titles
+from markerx.cleaners.equations import replace_equations
+from markerx.ordering import order_blocks
+from markerx.postprocessors.editor import edit_full_text
+from markerx.segmentation import detect_document_block_types
+from markerx.cleaners.code import identify_code_blocks, indent_blocks
+from markerx.cleaners.bullets import replace_bullets
+from markerx.markdown import merge_spans, merge_lines, get_full_text
+from markerx.schema import Page, BlockType
 from typing import List, Dict, Tuple, Optional
 import re
 import magic
-from marker.settings import settings
+from markerx.settings import settings
 
 
 def find_filetype(fpath):

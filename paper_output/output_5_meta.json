@@ -1,0 +1,115 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            ". Introduction",
+            1
+        ],
+        [
+            1,
+            ". Related Work",
+            2
+        ],
+        [
+            1,
+            ". Representative Active Learning works",
+            3
+        ],
+        [
+            2,
+            ". Flaws in the methodology",
+            3
+        ],
+        [
+            1,
+            ". Experiments",
+            4
+        ],
+        [
+            2,
+            ". Experimental setup",
+            4
+        ],
+        [
+            2,
+            ". Main result: Comparisons",
+            4
+        ],
+        [
+            2,
+            ". Ablation study",
+            6
+        ],
+        [
+            3,
+            "The budget of each cycle",
+            6
+        ],
+        [
+            3,
+            "To train vs. to finetune",
+            6
+        ],
+        [
+            3,
+            "The question of diversity",
+            7
+        ],
+        [
+            3,
+            "Extension to object detection",
+            7
+        ],
+        [
+            3,
+            "Consistency helps active learning",
+            7
+        ],
+        [
+            1,
+            ". Conclusion",
+            8
+        ],
+        [
+            2,
+            ". Consistency helps active learning",
+            11
+        ],
+        [
+            2,
+            ". Image classification",
+            11
+        ],
+        [
+            3,
+            "Object detection",
+            11
+        ],
+        [
+            2,
+            ". Detailed results",
+            11
+        ]
+    ],
+    "pages": 17,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 13,
+        "equations": {
+            "successful_ocr": 4,
+            "unsuccessful_ocr": 0,
+            "equations": 4
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

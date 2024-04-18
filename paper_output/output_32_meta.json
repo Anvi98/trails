@@ -1,0 +1,95 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "INTRODUCTION",
+            1
+        ],
+        [
+            1,
+            "PRELIMINARIES",
+            2
+        ],
+        [
+            2,
+            "Negative imaginary systems",
+            2
+        ],
+        [
+            2,
+            "Integral resonant control",
+            2
+        ],
+        [
+            2,
+            "Hybrid integrator-gain systems",
+            2
+        ],
+        [
+            1,
+            "HIGS-based IRC for NI systems",
+            3
+        ],
+        [
+            2,
+            "HIGS-based IRC",
+            3
+        ],
+        [
+            2,
+            "NI property of HIGS-based IRC",
+            4
+        ],
+        [
+            2,
+            "Stability for the interconnection of an NI system and a HIGS-based IRC",
+            4
+        ],
+        [
+            1,
+            "Proportional-integral-double-integral resonant control",
+            5
+        ],
+        [
+            1,
+            "HIGS-based PII2RC",
+            6
+        ],
+        [
+            1,
+            "Example",
+            8
+        ],
+        [
+            1,
+            "Conclusion",
+            8
+        ],
+        [
+            1,
+            "References",
+            9
+        ]
+    ],
+    "pages": 9,
+    "ocr_stats": {
+        "ocr_pages": 2,
+        "ocr_failed": 2,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 16,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 24,
+            "unsuccessful_ocr": 6,
+            "equations": 30
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

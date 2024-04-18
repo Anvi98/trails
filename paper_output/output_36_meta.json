@@ -1,0 +1,160 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Related Work",
+            2
+        ],
+        [
+            1,
+            "Preliminaries",
+            3
+        ],
+        [
+            2,
+            "Fisher Information Matrix (FIM)",
+            3
+        ],
+        [
+            2,
+            "Sharpness",
+            3
+        ],
+        [
+            2,
+            "Gradual Unfreezing",
+            4
+        ],
+        [
+            1,
+            "Experimental Setup",
+            4
+        ],
+        [
+            1,
+            "Gradual Unfreezing in the Early Period of Training Can Improve Out-of-Distribution Generalization",
+            4
+        ],
+        [
+            1,
+            "Early Period of Training Impacts Out-of-Distribution Generalization",
+            5
+        ],
+        [
+            2,
+            "Evidence of Impact on Out-of-Distribution Generalization",
+            5
+        ],
+        [
+            2,
+            "Learning Dynamics in the Early Period of Training",
+            5
+        ],
+        [
+            2,
+            "Final Solutions and Out-of-Distribution Results",
+            6
+        ],
+        [
+            2,
+            "Learning Dynamics Could Signify the Time Period to Remove Interventions",
+            7
+        ],
+        [
+            1,
+            "Generality of Findings on the Early Period of Training",
+            8
+        ],
+        [
+            2,
+            "Higher Initial Sharpness via Learning Rate",
+            8
+        ],
+        [
+            2,
+            "Empirical Validations in Transformers",
+            9
+        ],
+        [
+            1,
+            "Conclusions",
+            9
+        ],
+        [
+            1,
+            "Acknowledgement",
+            10
+        ],
+        [
+            1,
+            "Gradual Unfreezing",
+            15
+        ],
+        [
+            1,
+            "Hyperparameters",
+            15
+        ],
+        [
+            1,
+            "Properties of the Final Solutions and OOD Results",
+            17
+        ],
+        [
+            1,
+            "Algorithm to Determine the Unfreeze Time",
+            17
+        ],
+        [
+            1,
+            "Additional Learning Dynamics",
+            21
+        ],
+        [
+            2,
+            "Ranks",
+            21
+        ],
+        [
+            2,
+            "Change Learning Rate from Low to High",
+            21
+        ],
+        [
+            2,
+            "SQuAD",
+            21
+        ],
+        [
+            2,
+            "1/10th of the Default Learning Rate",
+            22
+        ]
+    ],
+    "pages": 23,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 3,
+        "table": 5,
+        "equations": {
+            "successful_ocr": 2,
+            "unsuccessful_ocr": 0,
+            "equations": 2
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

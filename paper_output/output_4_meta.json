@@ -1,0 +1,95 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "System Model and Mathematical Formulation",
+            3
+        ],
+        [
+            2,
+            "System Model",
+            3
+        ],
+        [
+            2,
+            "Mathematical Formulation",
+            3
+        ],
+        [
+            3,
+            "Structural Characteristic Information",
+            4
+        ],
+        [
+            3,
+            "Out-of-band Spatial Information",
+            4
+        ],
+        [
+            1,
+            "Proposed Methodology",
+            4
+        ],
+        [
+            2,
+            "Single Subcarrier Case",
+            4
+        ],
+        [
+            2,
+            "Multiple Subcarrier Case",
+            5
+        ],
+        [
+            1,
+            "Simulation Results",
+            6
+        ],
+        [
+            1,
+            "Conclusion",
+            8
+        ],
+        [
+            1,
+            "Appendix A: Proof of Theorem 1",
+            8
+        ],
+        [
+            1,
+            "Appendix B: Proof of Theorem 2",
+            10
+        ],
+        [
+            1,
+            "References",
+            11
+        ]
+    ],
+    "pages": 11,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 1,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 22,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 37,
+            "unsuccessful_ocr": 7,
+            "equations": 44
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

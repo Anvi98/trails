@@ -1,0 +1,200 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            ". Introduction",
+            1
+        ],
+        [
+            1,
+            ". Related Work",
+            2
+        ],
+        [
+            1,
+            ". Method",
+            3
+        ],
+        [
+            2,
+            ". Preliminaries",
+            3
+        ],
+        [
+            2,
+            ". Model-Informed Generation with Adversarial Prompt Optimization",
+            3
+        ],
+        [
+            2,
+            ". Target Distribution Informed Generation",
+            4
+        ],
+        [
+            1,
+            ". Experiments",
+            4
+        ],
+        [
+            2,
+            ". Semantic Classification",
+            4
+        ],
+        [
+            2,
+            ". Depth Estimation",
+            6
+        ],
+        [
+            1,
+            ". Conclusion and Limitations",
+            9
+        ],
+        [
+            1,
+            ". Outline",
+            13
+        ],
+        [
+            1,
+            ". Classification",
+            13
+        ],
+        [
+            2,
+            ". Training data generation",
+            13
+        ],
+        [
+            2,
+            ". ALIA",
+            13
+        ],
+        [
+            2,
+            ". General implementation details",
+            14
+        ],
+        [
+            2,
+            ". Waterbirds",
+            14
+        ],
+        [
+            3,
+            "Dataset details",
+            14
+        ],
+        [
+            3,
+            "Implementation Details",
+            14
+        ],
+        [
+            3,
+            "Additional Qualitative Results.",
+            15
+        ],
+        [
+            2,
+            ". iWildCam",
+            15
+        ],
+        [
+            3,
+            "Dataset details.",
+            15
+        ],
+        [
+            3,
+            "Alignment collapse solution for iWildCam.",
+            15
+        ],
+        [
+            3,
+            "Implementation details",
+            15
+        ],
+        [
+            3,
+            "Additional Qualitative Results.",
+            18
+        ],
+        [
+            3,
+            "Using ViT model.",
+            18
+        ],
+        [
+            2,
+            ". Image Guidance using Textual Inversion",
+            18
+        ],
+        [
+            2,
+            ". Additional Analysis",
+            18
+        ],
+        [
+            1,
+            ". Depth Estimation",
+            19
+        ],
+        [
+            2,
+            ". Depth training details",
+            20
+        ],
+        [
+            2,
+            ". Additional Quantitative Results",
+            20
+        ],
+        [
+            2,
+            ". Additional Qualitative Results",
+            20
+        ],
+        [
+            2,
+            ". Additional Analysis",
+            21
+        ],
+        [
+            3,
+            "Running multiple iterations of adversarial optimization vs a single iteration",
+            21
+        ],
+        [
+            3,
+            "CLIP image vs text guidance.",
+            21
+        ],
+        [
+            3,
+            "Generalization of Adversarial Prompts to different models.",
+            22
+        ]
+    ],
+    "pages": 27,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 6,
+        "table": 5,
+        "equations": {
+            "successful_ocr": 3,
+            "unsuccessful_ocr": 0,
+            "equations": 3
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

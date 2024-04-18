@@ -1,0 +1,100 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Large-Scale Fading Analysis",
+            2
+        ],
+        [
+            2,
+            "Method 1",
+            2
+        ],
+        [
+            2,
+            "Method 2",
+            2
+        ],
+        [
+            2,
+            "Comparison Between the Analytical Path Loss Model and Simulations",
+            2
+        ],
+        [
+            2,
+            "Load Quantization Analysis",
+            4
+        ],
+        [
+            1,
+            "Ray Tracing Simulations",
+            4
+        ],
+        [
+            2,
+            "Verification in a SISO Scenario",
+            4
+        ],
+        [
+            2,
+            "Multi-user Scenario with only LOS Paths",
+            4
+        ],
+        [
+            2,
+            "Multi-user Scenario with Multi-path Propagation",
+            6
+        ],
+        [
+            1,
+            "Experimental Results",
+            8
+        ],
+        [
+            2,
+            "Indoor Measurement and Ray Tracing Settings",
+            8
+        ],
+        [
+            2,
+            "Results Comparison between the Theoretical Model, Ray Tracing, and Measurement",
+            9
+        ],
+        [
+            1,
+            "Conclusion",
+            10
+        ],
+        [
+            1,
+            "References",
+            10
+        ]
+    ],
+    "pages": 10,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 2,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 4,
+            "unsuccessful_ocr": 1,
+            "equations": 5
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

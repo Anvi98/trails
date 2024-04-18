@@ -1,0 +1,95 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            3
+        ],
+        [
+            1,
+            "Literature Review",
+            6
+        ],
+        [
+            1,
+            "Preliminaries cooperative game theory",
+            8
+        ],
+        [
+            1,
+            "Model",
+            9
+        ],
+        [
+            1,
+            "Individual Exporting",
+            11
+        ],
+        [
+            2,
+            "Exporting under zero MQC",
+            11
+        ],
+        [
+            2,
+            "Exporting under positive MQCs",
+            12
+        ],
+        [
+            1,
+            "Cooperative Exporting",
+            13
+        ],
+        [
+            1,
+            "Cooperative Export Games",
+            16
+        ],
+        [
+            1,
+            "Compensation policies for complementary exporting players",
+            20
+        ],
+        [
+            2,
+            "Egalitarian essential rate",
+            21
+        ],
+        [
+            2,
+            "Proportional essential rate",
+            22
+        ],
+        [
+            1,
+            "Numerical Experiments",
+            24
+        ],
+        [
+            1,
+            "Conclusions",
+            27
+        ]
+    ],
+    "pages": 43,
+    "ocr_stats": {
+        "ocr_pages": 5,
+        "ocr_failed": 5,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 33,
+        "table": 4,
+        "equations": {
+            "successful_ocr": 40,
+            "unsuccessful_ocr": 2,
+            "equations": 42
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

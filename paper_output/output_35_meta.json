@@ -1,0 +1,165 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            2
+        ],
+        [
+            2,
+            "Related Research",
+            3
+        ],
+        [
+            1,
+            "Preliminary",
+            4
+        ],
+        [
+            2,
+            "Texas Hold'em-style Poker Games",
+            4
+        ],
+        [
+            2,
+            "Imperfect-Information Games",
+            5
+        ],
+        [
+            2,
+            "Current Paradigm for Solving Large-Scale Imperfect-Information Games.",
+            5
+        ],
+        [
+            1,
+            "Imperfect-Recall Games and Abstraction",
+            6
+        ],
+        [
+            1,
+            "Games with Ordered Signals",
+            7
+        ],
+        [
+            1,
+            "Abstraction for Games with Ordered Signals",
+            10
+        ],
+        [
+            1,
+            "Potential Outcome Isomorphism",
+            12
+        ],
+        [
+            1,
+            "The Resolution Boundary of Mainstream Signal Abstraction Algorithms",
+            17
+        ],
+        [
+            2,
+            "Common Refinement",
+            17
+        ],
+        [
+            2,
+            "Potential Outcome Isomorphism Serves as the Common Refinement of Mainstream Signal Abstraction Algorithms",
+            18
+        ],
+        [
+            3,
+            "E[HS] Algorithm",
+            18
+        ],
+        [
+            3,
+            "PA&PAEMD Algorithm",
+            19
+        ],
+        [
+            2,
+            "Limitations of Potential Outcome Isomorphism",
+            20
+        ],
+        [
+            1,
+            "K-Recall Outcome Isomorphism",
+            22
+        ],
+        [
+            1,
+            "Experiment and Result",
+            24
+        ],
+        [
+            2,
+            "Asymmetric Abstraction in CFR Training",
+            25
+        ],
+        [
+            2,
+            "Symmetric Abstraction in CFR Self-Play Training",
+            26
+        ],
+        [
+            1,
+            "Discussion and Future Work",
+            27
+        ],
+        [
+            1,
+            "Imperfect-Information Games",
+            28
+        ],
+        [
+            1,
+            "Abstraction in Imperfect-Information Games",
+            29
+        ],
+        [
+            1,
+            "Perfect-Recall Games",
+            29
+        ],
+        [
+            1,
+            "Some Simplified Texas Hold'em-style Games",
+            29
+        ],
+        [
+            2,
+            "Leduc Hold'em",
+            29
+        ],
+        [
+            2,
+            "Numerall211 Hold'em",
+            30
+        ],
+        [
+            1,
+            "A Transition from Games with Ordered Signals to Imperfect-Information Games",
+            31
+        ]
+    ],
+    "pages": 35,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 1,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 9,
+        "table": 4,
+        "equations": {
+            "successful_ocr": 9,
+            "unsuccessful_ocr": 2,
+            "equations": 11
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

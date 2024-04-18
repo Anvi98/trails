@@ -1,0 +1,215 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Preliminaries",
+            3
+        ],
+        [
+            2,
+            "Deep Clustering",
+            3
+        ],
+        [
+            2,
+            "Clustering Evaluation",
+            5
+        ],
+        [
+            1,
+            "Theoretical Analysis for Deep Clustering Evaluation",
+            6
+        ],
+        [
+            1,
+            "Proposed Strategy",
+            9
+        ],
+        [
+            1,
+            "Experiments",
+            12
+        ],
+        [
+            1,
+            "Discussion and Future Work",
+            18
+        ],
+        [
+            1,
+            "Appendix.",
+            25
+        ],
+        [
+            2,
+            "Deep Clustering Algorithm",
+            25
+        ],
+        [
+            3,
+            "JULE",
+            26
+        ],
+        [
+            3,
+            "DEPICT",
+            26
+        ],
+        [
+            3,
+            "DeepCluster",
+            26
+        ],
+        [
+            2,
+            "Technical Proofs",
+            27
+        ],
+        [
+            3,
+            "Proof of Theorem 1",
+            27
+        ],
+        [
+            3,
+            "Proof of Theorem 2",
+            27
+        ],
+        [
+            3,
+            "Proof of Theorem 3",
+            28
+        ],
+        [
+            3,
+            "Proof of Corollary 1",
+            29
+        ],
+        [
+            2,
+            "External Validation Measure",
+            29
+        ],
+        [
+            2,
+            "Clustering validity indices",
+            30
+        ],
+        [
+            3,
+            "Silhouette Score rousseeuw1987silhouettes",
+            31
+        ],
+        [
+            3,
+            "Dunn Index dunn1974well",
+            31
+        ],
+        [
+            3,
+            "Davies-Bouldin index davies1979cluster",
+            32
+        ],
+        [
+            3,
+            "Calinski-Harabasz index calinski1974dendrite",
+            33
+        ],
+        [
+            3,
+            "Cindex hubert1976general",
+            33
+        ],
+        [
+            3,
+            "SDBW index halkidi2001clustering",
+            34
+        ],
+        [
+            3,
+            "Cubic clustering criterion sarle1983sas",
+            35
+        ],
+        [
+            3,
+            "CDbw index halkidi2008density",
+            36
+        ],
+        [
+            2,
+            "Additional Algorithms Details",
+            38
+        ],
+        [
+            3,
+            "Dip statistics (hartigan1985dip)",
+            38
+        ],
+        [
+            3,
+            "Stage-wise clustering",
+            39
+        ],
+        [
+            3,
+            "Link analysis",
+            40
+        ],
+        [
+            2,
+            "Additional Experimental Details",
+            42
+        ],
+        [
+            3,
+            "Data information",
+            42
+        ],
+        [
+            3,
+            "Evaluation metrics",
+            42
+        ],
+        [
+            3,
+            "Additional implementation details",
+            44
+        ],
+        [
+            3,
+            "Additional results",
+            45
+        ],
+        [
+            3,
+            "Ablation studies",
+            93
+        ]
+    ],
+    "pages": 117,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 52,
+            "unsuccessful_ocr": 1,
+            "equations": 53
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

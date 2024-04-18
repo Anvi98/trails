@@ -1,0 +1,210 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "DtS-IoT System Architecture Design",
+            3
+        ],
+        [
+            2,
+            "Previous Works",
+            3
+        ],
+        [
+            2,
+            "Overall System Architecture and Potential Use Cases",
+            3
+        ],
+        [
+            2,
+            "LR-FHSS Transceiver Design",
+            4
+        ],
+        [
+            2,
+            "Challenging Issues",
+            5
+        ],
+        [
+            3,
+            "Doppler Effect",
+            5
+        ],
+        [
+            3,
+            "STO",
+            5
+        ],
+        [
+            3,
+            "CFO and Phase Offset",
+            5
+        ],
+        [
+            3,
+            "CCI",
+            5
+        ],
+        [
+            1,
+            "Robust Synchronization for DtS-IoT Communications",
+            5
+        ],
+        [
+            2,
+            "Signal Detector",
+            5
+        ],
+        [
+            2,
+            "Header Receiver",
+            6
+        ],
+        [
+            3,
+            "Symbol Timing Estimation",
+            6
+        ],
+        [
+            3,
+            "Phase Rotate",
+            7
+        ],
+        [
+            3,
+            "CFO & Phase Estimation",
+            7
+        ],
+        [
+            3,
+            "Header SOVA",
+            8
+        ],
+        [
+            3,
+            "Deinterleaver",
+            9
+        ],
+        [
+            3,
+            "Viterbi Decoder",
+            9
+        ],
+        [
+            3,
+            "CRC8",
+            9
+        ],
+        [
+            3,
+            "Header Decoder",
+            9
+        ],
+        [
+            2,
+            "Payload Receiver",
+            10
+        ],
+        [
+            3,
+            "Payload Buffer",
+            10
+        ],
+        [
+            3,
+            "Payload SOVA",
+            10
+        ],
+        [
+            3,
+            "Deinterleaver",
+            10
+        ],
+        [
+            3,
+            "Viterbi Decoder",
+            10
+        ],
+        [
+            3,
+            "CRC16",
+            10
+        ],
+        [
+            2,
+            "Simulation Results",
+            10
+        ],
+        [
+            1,
+            "System-level Implementation and Verification via Laboratory Test",
+            11
+        ],
+        [
+            2,
+            "Implementation of ASIC-based Transmitter and FPGA-based Receiver Testbeds",
+            11
+        ],
+        [
+            2,
+            "Test diagram for verification",
+            12
+        ],
+        [
+            2,
+            "Laboratory Test Results",
+            13
+        ],
+        [
+            3,
+            "User Link Verification",
+            14
+        ],
+        [
+            3,
+            "Feeder Link Verification",
+            15
+        ],
+        [
+            3,
+            "System Verification",
+            15
+        ],
+        [
+            1,
+            "Conclusions",
+            16
+        ],
+        [
+            1,
+            "References",
+            17
+        ]
+    ],
+    "pages": 17,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 16,
+        "code": 66,
+        "table": 3,
+        "equations": {
+            "successful_ocr": 1,
+            "unsuccessful_ocr": 1,
+            "equations": 2
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

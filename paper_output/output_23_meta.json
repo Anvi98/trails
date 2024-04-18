@@ -1,0 +1,150 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Related Work",
+            2
+        ],
+        [
+            2,
+            "Deep Graph Convolutional RL",
+            2
+        ],
+        [
+            2,
+            "The EHHNN",
+            2
+        ],
+        [
+            1,
+            "MARL for Traffic Control Problem",
+            3
+        ],
+        [
+            2,
+            "Traffic Signal Control Problem Formulation",
+            3
+        ],
+        [
+            2,
+            "Multi-intersection Traffic Signal Control as MDP",
+            4
+        ],
+        [
+            1,
+            "Multi-agent BReLU actor-critic with interpretable influence mechanism",
+            4
+        ],
+        [
+            2,
+            "Overview",
+            4
+        ],
+        [
+            2,
+            "Node Embedding",
+            4
+        ],
+        [
+            2,
+            "Interpretable Influence Mechanism based on EHHNN",
+            5
+        ],
+        [
+            2,
+            "Actor-Critic Framework based on BReLU neural network approximation",
+            6
+        ],
+        [
+            1,
+            "Simulation Results",
+            7
+        ],
+        [
+            2,
+            "Traffic forecasting",
+            8
+        ],
+        [
+            3,
+            "Dataset Description",
+            8
+        ],
+        [
+            3,
+            "Measures of effectiveness",
+            8
+        ],
+        [
+            3,
+            "Experimental Settings",
+            8
+        ],
+        [
+            3,
+            "Experiment Results",
+            8
+        ],
+        [
+            2,
+            "Multi-intersection traffic signal control",
+            8
+        ],
+        [
+            3,
+            "Traffic Signal Control using Synthetic Traffic Networks",
+            8
+        ],
+        [
+            3,
+            "Evaluation Metric",
+            9
+        ],
+        [
+            3,
+            "Methods Compared with",
+            9
+        ],
+        [
+            3,
+            "Simulation Settings",
+            9
+        ],
+        [
+            3,
+            "Experimental Results",
+            9
+        ],
+        [
+            1,
+            "Conclusion",
+            10
+        ]
+    ],
+    "pages": 11,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 10,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 18,
+            "unsuccessful_ocr": 2,
+            "equations": 20
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

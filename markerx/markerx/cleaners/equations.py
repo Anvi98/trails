@@ -10,10 +10,10 @@ from texify.model.processor import load_processor
 import re
 from PIL import Image, ImageDraw
 
-from marker.bbox import should_merge_blocks, merge_boxes
-from marker.debug.data import dump_equation_debug_data
-from marker.settings import settings
-from marker.schema import Page, Span, Line, Block, BlockType
+from markerx.bbox import should_merge_blocks, merge_boxes
+from markerx.debug.data import dump_equation_debug_data
+from markerx.settings import settings
+from markerx.schema import Page, Span, Line, Block, BlockType
 import os
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"

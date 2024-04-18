@@ -1,0 +1,125 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            ". Introduction",
+            1
+        ],
+        [
+            1,
+            ". Related Works",
+            2
+        ],
+        [
+            1,
+            ". Video-Language Pretraining Dataset",
+            3
+        ],
+        [
+            1,
+            ". Method",
+            3
+        ],
+        [
+            1,
+            ". Experiments and Results",
+            5
+        ],
+        [
+            1,
+            ". Analysis and Discussion",
+            6
+        ],
+        [
+            1,
+            ". Conclusion",
+            8
+        ],
+        [
+            1,
+            ". Implementation details",
+            14
+        ],
+        [
+            2,
+            ". Additional pretraining details",
+            14
+        ],
+        [
+            2,
+            ". Finetuning details for retrieval",
+            14
+        ],
+        [
+            2,
+            ". Finetuning details for classification",
+            14
+        ],
+        [
+            2,
+            ". Additional details for YT-VidLA-800M creation",
+            14
+        ],
+        [
+            1,
+            ". Zero-Shot Retrieval",
+            14
+        ],
+        [
+            1,
+            ". Zero-Shot Multiple Choice",
+            14
+        ],
+        [
+            1,
+            ". Zero-Shot Classification",
+            14
+        ],
+        [
+            1,
+            ". Video-to-Text Retrieval Results",
+            15
+        ],
+        [
+            1,
+            ". Effect of Image-Language Pretraining",
+            15
+        ],
+        [
+            1,
+            ". Analysis of [mst] Token Configuration",
+            16
+        ],
+        [
+            1,
+            ". Results on Hierarchical Dataset",
+            16
+        ],
+        [
+            1,
+            ". Analysis of Pretraining Dataset",
+            16
+        ]
+    ],
+    "pages": 17,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 7,
+        "table": 8,
+        "equations": {
+            "successful_ocr": 2,
+            "unsuccessful_ocr": 1,
+            "equations": 3
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Related Work",
+            2
+        ],
+        [
+            2,
+            "Knowledge Injection",
+            2
+        ],
+        [
+            2,
+            "Parameter-efficient Finetuning",
+            2
+        ],
+        [
+            1,
+            "KnowLA",
+            3
+        ],
+        [
+            2,
+            "Entity Linking",
+            3
+        ],
+        [
+            2,
+            "LLM Encoding",
+            3
+        ],
+        [
+            2,
+            "Knowledge Mapping and Injection",
+            3
+        ],
+        [
+            2,
+            "Knowledge Fusion",
+            3
+        ],
+        [
+            1,
+            "Experiments",
+            4
+        ],
+        [
+            2,
+            "Baselines and Implementation",
+            4
+        ],
+        [
+            2,
+            "Datasets and Settings",
+            4
+        ],
+        [
+            2,
+            "KGs and Configurations",
+            4
+        ],
+        [
+            2,
+            "Experiments on Multi-choice QA",
+            5
+        ],
+        [
+            2,
+            "Experiments on Closed-book QA",
+            5
+        ],
+        [
+            2,
+            "Experiments on TruthfulQA",
+            6
+        ],
+        [
+            2,
+            "Case Study",
+            7
+        ],
+        [
+            2,
+            "Why Knowledgeable Adaptation Works?",
+            7
+        ],
+        [
+            2,
+            "Impact of KG Embedding Models",
+            8
+        ],
+        [
+            2,
+            "Robustness of KnowLA",
+            8
+        ],
+        [
+            1,
+            "Conclusion",
+            9
+        ],
+        [
+            1,
+            "Datasets and KGs",
+            12
+        ],
+        [
+            1,
+            "Knowledge-Unrelated Tasks",
+            13
+        ],
+        [
+            1,
+            "Additional Latency on Efficiency",
+            13
+        ],
+        [
+            1,
+            "Robustness to Different Prompts",
+            13
+        ],
+        [
+            1,
+            "Discussion on Extension of KnowLA",
+            13
+        ],
+        [
+            2,
+            "Multiple KGs",
+            13
+        ],
+        [
+            2,
+            "Knowledge Updates",
+            14
+        ]
+    ],
+    "pages": 14,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 8,
+        "table": 8,
+        "equations": {
+            "successful_ocr": 2,
+            "unsuccessful_ocr": 1,
+            "equations": 3
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

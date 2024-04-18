@@ -1,0 +1,90 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Problem Setting",
+            3
+        ],
+        [
+            1,
+            "Deep Structured State-Space Model",
+            3
+        ],
+        [
+            1,
+            "Model Order Reduction and Regularization",
+            5
+        ],
+        [
+            2,
+            "Reduction by truncation and singular perturbation",
+            5
+        ],
+        [
+            2,
+            "Regularized Linear Recurrent Units",
+            7
+        ],
+        [
+            3,
+            "Modal 1-regularization",
+            7
+        ],
+        [
+            3,
+            "Hankel nuclear norm regularization",
+            7
+        ],
+        [
+            1,
+            "Case Study",
+            8
+        ],
+        [
+            1,
+            "Conclusions",
+            12
+        ],
+        [
+            1,
+            "Appendix",
+            12
+        ],
+        [
+            2,
+            "Computation of Hankel singular values",
+            12
+        ],
+        [
+            2,
+            "Solution to a diagonal Discrete Lyapunov equation",
+            12
+        ]
+    ],
+    "pages": 14,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 2,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 14,
+            "unsuccessful_ocr": 0,
+            "equations": 14
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

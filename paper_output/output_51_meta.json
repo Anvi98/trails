@@ -1,0 +1,155 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "From Syntactic to Semantic Tokens",
+            3
+        ],
+        [
+            2,
+            "Syntactic Tokens",
+            3
+        ],
+        [
+            2,
+            "Syntactic Token Processors: Language Models",
+            4
+        ],
+        [
+            2,
+            "Semantic Tokens",
+            4
+        ],
+        [
+            2,
+            "Semantic Token Processors",
+            4
+        ],
+        [
+            1,
+            "Decoding: Extracting Utility from Token Processors",
+            5
+        ],
+        [
+            2,
+            "General Formulation of the Decoding Problem",
+            5
+        ],
+        [
+            2,
+            "Syntactic Decoding",
+            6
+        ],
+        [
+            2,
+            "Semantic Decoding",
+            7
+        ],
+        [
+            2,
+            "Connections with Pragmatics and Semiotics",
+            7
+        ],
+        [
+            2,
+            "Flows as Semantic Decoding Algorithms",
+            7
+        ],
+        [
+            1,
+            "Semantic Decoding: Optimization in the Semantic Space",
+            9
+        ],
+        [
+            2,
+            "Heuristic Decoding Patterns: Grammars of Thoughts",
+            10
+        ],
+        [
+            2,
+            "Meta-Heuristics: Sampling and Value-Guided Search in Semantic Space",
+            10
+        ],
+        [
+            2,
+            "Learning the Flow: Embracing Optimization in Semantic Space",
+            11
+        ],
+        [
+            1,
+            "Research and Application Opportunities",
+            11
+        ],
+        [
+            2,
+            "Prompt Engineering and Meta-Prompt Engineering",
+            11
+        ],
+        [
+            2,
+            "Synthetic Data Flow",
+            12
+        ],
+        [
+            2,
+            "Human in the Loop and Human-Computer Interaction",
+            12
+        ],
+        [
+            2,
+            "General AI Assistants",
+            12
+        ],
+        [
+            2,
+            "Evaluation and Diagnostic",
+            12
+        ],
+        [
+            2,
+            "Interpretability, Control, and Error Mitigation",
+            13
+        ],
+        [
+            2,
+            "Richer Semantic Spaces",
+            13
+        ],
+        [
+            2,
+            "Infrastructure",
+            13
+        ],
+        [
+            1,
+            "Conclusion",
+            14
+        ]
+    ],
+    "pages": 23,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 22,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 2,
+            "unsuccessful_ocr": 0,
+            "equations": 2
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

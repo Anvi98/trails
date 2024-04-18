@@ -1,0 +1,125 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Preliminaries",
+            3
+        ],
+        [
+            2,
+            "Problem Settings",
+            3
+        ],
+        [
+            2,
+            "Reinforcement Learning",
+            3
+        ],
+        [
+            3,
+            "Twin-Delayed Deep Deterministic Policy Gradient",
+            4
+        ],
+        [
+            2,
+            "Sparse Dictionary Learning",
+            4
+        ],
+        [
+            2,
+            "Sparsifying Neural Network Layers with L0 Regularization",
+            4
+        ],
+        [
+            1,
+            "Deep Reinforcement Learning with L0-Sparse Polynomial Policies",
+            5
+        ],
+        [
+            2,
+            "Twin-Delayed Deep Deterministic Policy Gradient with L0-Sparse Polynomial Policy",
+            5
+        ],
+        [
+            1,
+            "Results",
+            7
+        ],
+        [
+            2,
+            "Kuramoto-Sivashinsky PDE",
+            7
+        ],
+        [
+            2,
+            "Convection-Diffusion-Reaction PDE",
+            9
+        ],
+        [
+            1,
+            "Discussion and Conclusion",
+            11
+        ],
+        [
+            1,
+            "PDE Implementation",
+            16
+        ],
+        [
+            2,
+            "Kuramoto-Sivashinsky PDE",
+            16
+        ],
+        [
+            2,
+            "Convection-Diffusion-Reaction PDE",
+            16
+        ],
+        [
+            1,
+            "Deep Reinforcement Learning Algorithms",
+            16
+        ],
+        [
+            2,
+            "L1-Sparse Polynomial TD3",
+            16
+        ],
+        [
+            2,
+            "Hyperparameters",
+            17
+        ],
+        [
+            1,
+            "Control of PDE as a Block Markov Decision Process",
+            17
+        ]
+    ],
+    "pages": 18,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 21,
+        "table": 3,
+        "equations": {
+            "successful_ocr": 16,
+            "unsuccessful_ocr": 1,
+            "equations": 17
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

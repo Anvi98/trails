@@ -1,0 +1,120 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "INTRODUCTION",
+            1
+        ],
+        [
+            1,
+            "Overview of The Conventional GFL and GFM Inverter",
+            2
+        ],
+        [
+            2,
+            "Modeling of Inverter connected to a grid",
+            2
+        ],
+        [
+            2,
+            "Response of Conventional GFL to perturbation",
+            2
+        ],
+        [
+            2,
+            "Response of GFM to perturbation",
+            2
+        ],
+        [
+            1,
+            "Proposed GFL controller",
+            3
+        ],
+        [
+            2,
+            "Power-injecting dynamics",
+            3
+        ],
+        [
+            2,
+            "Design of the controller",
+            4
+        ],
+        [
+            3,
+            "Reference tracking",
+            4
+        ],
+        [
+            3,
+            "Stability",
+            4
+        ],
+        [
+            3,
+            "Robustness against a high-frequency perturbation",
+            4
+        ],
+        [
+            1,
+            "Smooth Transition between GFL and GFM",
+            4
+        ],
+        [
+            2,
+            "Proposed transition strategy",
+            4
+        ],
+        [
+            3,
+            "GFL to GFM",
+            4
+        ],
+        [
+            3,
+            "GFM to GFL",
+            4
+        ],
+        [
+            2,
+            "Transition stability",
+            4
+        ],
+        [
+            1,
+            "Simulation Results",
+            5
+        ],
+        [
+            1,
+            "CONCLUSIONS",
+            6
+        ],
+        [
+            1,
+            "References",
+            6
+        ]
+    ],
+    "pages": 6,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 41,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 14,
+            "unsuccessful_ocr": 2,
+            "equations": 16
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

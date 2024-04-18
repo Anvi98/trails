@@ -1,0 +1,155 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            2,
+            "Literature Review",
+            2
+        ],
+        [
+            2,
+            "Contributions",
+            2
+        ],
+        [
+            2,
+            "Outline",
+            3
+        ],
+        [
+            1,
+            "Preliminaries",
+            3
+        ],
+        [
+            2,
+            "Notation",
+            3
+        ],
+        [
+            2,
+            "Agent Dynamics",
+            3
+        ],
+        [
+            2,
+            "Clusters of agents",
+            4
+        ],
+        [
+            2,
+            "Unscented Kalman Filter",
+            5
+        ],
+        [
+            1,
+            "Methods",
+            6
+        ],
+        [
+            2,
+            "Similarity Metrics",
+            6
+        ],
+        [
+            3,
+            "Cost Distance",
+            7
+        ],
+        [
+            3,
+            "Geometric Distance",
+            8
+        ],
+        [
+            2,
+            "Multi-view Clustering",
+            8
+        ],
+        [
+            2,
+            "Merge and Split Clusters",
+            10
+        ],
+        [
+            2,
+            "Insertion and Deletion of Clusters",
+            10
+        ],
+        [
+            1,
+            "Problem Formulation",
+            10
+        ],
+        [
+            2,
+            "Problem Definition",
+            10
+        ],
+        [
+            2,
+            "Proposed Solution",
+            11
+        ],
+        [
+            1,
+            "RESULTS",
+            11
+        ],
+        [
+            2,
+            "Datasets",
+            11
+        ],
+        [
+            2,
+            "Simulation",
+            12
+        ],
+        [
+            3,
+            "Trajnet++",
+            12
+        ],
+        [
+            3,
+            "Comparison",
+            12
+        ],
+        [
+            3,
+            "Argoverse 2",
+            16
+        ],
+        [
+            1,
+            "CONCLUSIONS",
+            18
+        ]
+    ],
+    "pages": 20,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 8,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 25,
+            "unsuccessful_ocr": 1,
+            "equations": 26
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

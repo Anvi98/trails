@@ -1,0 +1,150 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Preliminaries",
+            1
+        ],
+        [
+            2,
+            "Notation",
+            1
+        ],
+        [
+            2,
+            "System Model",
+            2
+        ],
+        [
+            2,
+            "CPAN-Model",
+            2
+        ],
+        [
+            1,
+            "SIC for Gaussian Inputs",
+            2
+        ],
+        [
+            2,
+            "Surrogate app Based on the CPAN Model",
+            2
+        ],
+        [
+            2,
+            "Efficient Computation of the Marginal Distributions",
+            3
+        ],
+        [
+            3,
+            "First Stage Detection",
+            3
+        ],
+        [
+            3,
+            "Second Stage Detection",
+            3
+        ],
+        [
+            2,
+            "Extension to S sic-Stages",
+            5
+        ],
+        [
+            2,
+            "Lower Bound on Mutual Information",
+            5
+        ],
+        [
+            2,
+            "Simulation Results",
+            6
+        ],
+        [
+            1,
+            "SIC for Ring Constellations",
+            6
+        ],
+        [
+            2,
+            "Mutual Information Estimation",
+            7
+        ],
+        [
+            2,
+            "Computing the Marginal Distributions",
+            8
+        ],
+        [
+            3,
+            "Absolute Value Detection",
+            8
+        ],
+        [
+            3,
+            "Phase Detection, First Stage",
+            8
+        ],
+        [
+            3,
+            "Phase Detection, Second Stage",
+            9
+        ],
+        [
+            2,
+            "Extension to S sic-Stages",
+            9
+        ],
+        [
+            2,
+            "Lower Bound on Mutual Information",
+            9
+        ],
+        [
+            2,
+            "Simulation Results",
+            9
+        ],
+        [
+            1,
+            "Conclusion & Outlook",
+            9
+        ],
+        [
+            1,
+            "Appendix A: Moments of f",
+            10
+        ],
+        [
+            1,
+            "References",
+            10
+        ]
+    ],
+    "pages": 11,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 44,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 47,
+            "unsuccessful_ocr": 9,
+            "equations": 56
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

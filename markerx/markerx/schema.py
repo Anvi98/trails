@@ -4,8 +4,8 @@ from typing import List, Optional, Tuple
 from pydantic import BaseModel, field_validator
 import ftfy
 
-from marker.bbox import boxes_intersect_pct, multiple_boxes_intersect
-from marker.settings import settings
+from markerx.bbox import boxes_intersect_pct, multiple_boxes_intersect
+from markerx.settings import settings
 
 
 def find_span_type(span, page_blocks):

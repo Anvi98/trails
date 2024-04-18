@@ -1,0 +1,80 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Preliminaries and Problem Statement",
+            2
+        ],
+        [
+            2,
+            "Density function for safe navigation",
+            2
+        ],
+        [
+            1,
+            "Control Density Function (CDF)",
+            3
+        ],
+        [
+            1,
+            "Computational framework",
+            3
+        ],
+        [
+            1,
+            "Simulation Results",
+            3
+        ],
+        [
+            2,
+            "Duffing oscillator",
+            4
+        ],
+        [
+            2,
+            "Dubin car model",
+            4
+        ],
+        [
+            1,
+            "Conclusion",
+            5
+        ],
+        [
+            1,
+            "Appendix",
+            5
+        ],
+        [
+            1,
+            "References",
+            6
+        ]
+    ],
+    "pages": 6,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 12,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 16,
+            "unsuccessful_ocr": 4,
+            "equations": 20
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

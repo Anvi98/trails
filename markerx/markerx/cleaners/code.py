@@ -1,4 +1,4 @@
-from marker.schema import Span, Line, Page
+from markerx.schema import Span, Line, Page
 import re
 from typing import List
 import fitz as pymupdf

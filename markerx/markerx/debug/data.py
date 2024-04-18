@@ -4,8 +4,8 @@ import os
 import zlib
 from typing import List
 
-from marker.schema import Page
-from marker.settings import settings
+from markerx.schema import Page
+from markerx.settings import settings
 from PIL import Image
 import io
 

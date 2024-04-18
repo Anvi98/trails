@@ -3,10 +3,10 @@ from itertools import chain
 from typing import Optional
 
 from transformers import AutoTokenizer
-from marker.settings import settings
+from markerx.settings import settings
 import torch
 import torch.nn.functional as F
-from marker.postprocessors.t5 import T5ForTokenClassification, byt5_tokenize
+from markerx.postprocessors.t5 import T5ForTokenClassification, byt5_tokenize
 
 
 def load_editing_model():

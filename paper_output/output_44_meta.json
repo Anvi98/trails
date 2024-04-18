@@ -1,0 +1,90 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "INTRODUCTION",
+            1
+        ],
+        [
+            2,
+            "A Motivating Example",
+            2
+        ],
+        [
+            1,
+            "PROBLEM FORMULATION",
+            2
+        ],
+        [
+            1,
+            "BACKGROUND: DISCRETE GEOMETRY",
+            3
+        ],
+        [
+            1,
+            "MAIN RESULTS",
+            4
+        ],
+        [
+            2,
+            "Extension",
+            5
+        ],
+        [
+            1,
+            "EXAMPLES",
+            5
+        ],
+        [
+            1,
+            "DISCUSSION",
+            6
+        ],
+        [
+            1,
+            "CONCLUSION AND FUTURE WORK",
+            7
+        ],
+        [
+            1,
+            "References",
+            7
+        ],
+        [
+            1,
+            "Appendix",
+            10
+        ],
+        [
+            2,
+            "Proofs of Discrete Geometric Results",
+            10
+        ],
+        [
+            2,
+            "Proof of Main Results",
+            11
+        ]
+    ],
+    "pages": 14,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 40,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 21,
+            "unsuccessful_ocr": 8,
+            "equations": 29
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

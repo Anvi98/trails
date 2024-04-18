@@ -2,7 +2,7 @@ from typing import Optional
 
 from nltk import wordpunct_tokenize
 from spellchecker import SpellChecker
-from marker.settings import settings
+from markerx.settings import settings
 import re
 
 

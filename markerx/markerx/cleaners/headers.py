@@ -6,7 +6,7 @@ from thefuzz import fuzz
 from sklearn.cluster import DBSCAN
 import numpy as np
 
-from marker.schema import Page, FullyMergedBlock
+from markerx.schema import Page, FullyMergedBlock
 from typing import List, Tuple
 
 

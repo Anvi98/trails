@@ -1,0 +1,125 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            2
+        ],
+        [
+            1,
+            "Preliminaries on Zak Transform and DD Domain Pulses",
+            5
+        ],
+        [
+            1,
+            "Fundamentals of Delay-Doppler Domain Signaling",
+            7
+        ],
+        [
+            2,
+            "Delay-Doppler Domain Basis Functions",
+            8
+        ],
+        [
+            2,
+            "Constructing Delay-Doppler Domain Basis Functions",
+            10
+        ],
+        [
+            1,
+            "Properties of DD Domain Basis Function and It's Truncation",
+            12
+        ],
+        [
+            2,
+            "Time-Frequency Consistent Filtering and Windowing",
+            14
+        ],
+        [
+            2,
+            "DD Domain TF-Consistent Pulse Shaping with Truncated Periodic Signals",
+            15
+        ],
+        [
+            2,
+            "The Ambiguity Function of Truncated DD Domain Basis Functions",
+            18
+        ],
+        [
+            1,
+            "Practical Pulse Shaping for Delay-Doppler Communications",
+            21
+        ],
+        [
+            2,
+            "Input-Output Relation for DD Communications with Practical Pulse Shaping",
+            23
+        ],
+        [
+            2,
+            "Asymptotical DD Domain Input-Output Relation",
+            24
+        ],
+        [
+            1,
+            "Numerical Results",
+            26
+        ],
+        [
+            1,
+            "Conclusion",
+            28
+        ],
+        [
+            1,
+            "Appendix A: Derivation of (34)",
+            28
+        ],
+        [
+            1,
+            "Appendix B: Proof of Theorem 3",
+            28
+        ],
+        [
+            1,
+            "Appendix C: Proof of Theorem 4",
+            29
+        ],
+        [
+            1,
+            "Appendix D: Proof of Corollary 2",
+            30
+        ],
+        [
+            1,
+            "Appendix E: Acknowledgement",
+            30
+        ],
+        [
+            1,
+            "References",
+            31
+        ]
+    ],
+    "pages": 32,
+    "ocr_stats": {
+        "ocr_pages": 3,
+        "ocr_failed": 3,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 65,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 63,
+            "unsuccessful_ocr": 4,
+            "equations": 67
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

@@ -3,14 +3,14 @@ from typing import List
 
 from transformers import LayoutLMv3ForTokenClassification
 
-from marker.bbox import unnormalize_box
+from markerx.bbox import unnormalize_box
 from transformers.models.layoutlmv3.image_processing_layoutlmv3 import normalize_box
 import io
 from PIL import Image
 from transformers import LayoutLMv3Processor
 import numpy as np
-from marker.settings import settings
-from marker.schema import Page, BlockType
+from markerx.settings import settings
+from markerx.schema import Page, BlockType
 import torch
 from math import isclose
 

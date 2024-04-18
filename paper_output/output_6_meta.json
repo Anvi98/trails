@@ -1,0 +1,170 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Previous Work",
+            1
+        ],
+        [
+            2,
+            "Two-Sided Fairness",
+            2
+        ],
+        [
+            2,
+            "Preference-Aware Task Assignment",
+            2
+        ],
+        [
+            1,
+            "Algorithm Design",
+            2
+        ],
+        [
+            2,
+            "Overview",
+            2
+        ],
+        [
+            2,
+            "Approach",
+            2
+        ],
+        [
+            2,
+            "Some Relevant Assumptions",
+            2
+        ],
+        [
+            2,
+            "Algorithm Flow",
+            2
+        ],
+        [
+            2,
+            "Algorithm Discussion",
+            2
+        ],
+        [
+            2,
+            "Utilities Functions",
+            3
+        ],
+        [
+            2,
+            "Preference Orders",
+            3
+        ],
+        [
+            1,
+            "Simulation Design",
+            4
+        ],
+        [
+            2,
+            "Code",
+            4
+        ],
+        [
+            2,
+            "City Framework",
+            4
+        ],
+        [
+            2,
+            "Driver Generation",
+            4
+        ],
+        [
+            2,
+            "Passenger Generation",
+            4
+        ],
+        [
+            2,
+            "Design",
+            4
+        ],
+        [
+            2,
+            "Random Matching",
+            4
+        ],
+        [
+            2,
+            "Closest Neighbours",
+            4
+        ],
+        [
+            2,
+            "Gale-Shapley",
+            4
+        ],
+        [
+            2,
+            "Altering Weights",
+            4
+        ],
+        [
+            1,
+            "Results",
+            4
+        ],
+        [
+            2,
+            "Graph comparing Different Algorithms",
+            5
+        ],
+        [
+            2,
+            "Graph comparing DA with Fairness",
+            5
+        ],
+        [
+            2,
+            "Graphs with new fairness weights",
+            5
+        ],
+        [
+            1,
+            "Reflections and Conclusion",
+            6
+        ],
+        [
+            1,
+            "Acknowledgements",
+            6
+        ],
+        [
+            1,
+            "References",
+            6
+        ]
+    ],
+    "pages": 6,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 4,
+            "unsuccessful_ocr": 0,
+            "equations": 4
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
